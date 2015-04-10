@@ -1,0 +1,22 @@
+{
+  "name": "dottrend2",
+  "version": "0.0.0",
+  "authors": [
+    "Allison Betancourt <allisonbbetancourt@gmail.com>"
+  ],
+  "description": "Dottrend v2",
+  "main": "index.html",
+  "keywords": [
+    "responsive",
+    "jquery"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
