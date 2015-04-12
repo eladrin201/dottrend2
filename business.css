@@ -1,0 +1,84 @@
+#business .container {
+  background:url('../images/AboutBackground.png');
+  height: 100%;
+  width: 100%;
+  position: fixed;
+}
+
+#business #menu {
+
+}
+
+#business #menu .h3 {
+  font-family: 'Helvetica', sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  text-align: left;
+}
+
+#business #leftarrow {
+
+}
+
+#business #center {
+  height: 822px;
+  width:
+}
+
+#business #center #top {
+  
+}
+
+#business #center #sociallinks {
+
+}
+
+#business #center #sociallinks .img {
+  height: 38px;
+  width: 37px;
+  padding: 2px;
+}
+
+#business #rightarrow #circle1 {
+  border-radius: 100%
+  height: 25px;
+  width: 25px;
+  border-style: 2px solid black;
+}
+
+#business #rightarrow #circle2 {
+  border-radius: 100%
+  height: 25px;
+  width: 25px;
+  border-style: 2px solid black;
+}
+
+#business #rightarrow #circle3 {
+  border-radius: 100%
+  height: 25px;
+  width: 25px;
+  border-style: 2px solid black;
+}
+
+#business #rightarrow #circle4 {
+  border-radius: 100%
+  height: 25px;
+  width: 25px;
+  border-style: 2px solid black;
+}
+
+#business #rightarrow #circle5 {
+  border-radius: 100%
+  height: 25px;
+  width: 25px;
+  border-style: 2px solid black;
+}
+
+#business #rightarrow #RA {
+  height: 111px;
+  width: 28px;
+}
+
+#business #rightarrow #RA .img {
+  padding-top: 200px;
+}
