@@ -1,0 +1,131 @@
+#industry-academy .container {
+
+}
+
+#industry-academy #row {
+
+}
+
+#industry-academy #row #menu {
+
+}
+
+#row #menu #overview {
+
+}
+
+#row #menu #innovator {
+
+}
+
+#row #menu #innovator #global {
+
+}
+
+#row #menu #innovator #industry {
+
+}
+
+#row #menu #innovator #bigidea {
+
+}
+
+#row #menu #innovator #videosandinfo {
+
+}
+
+#row #menu #comparison {
+
+}
+
+#row #menu #ready {
+
+}
+
+#industry-academy #row #right1 {
+
+}
+
+#industry-academy #row #right2 {
+
+}
+
+#row #right2 #leftarrow {
+  position: fixed;
+}
+
+#row #right2 #circle1 {
+  border-radius: 100%;
+  border-style: 2px solid black;
+  height: 22px;
+  width: 22px;
+  display: inline-block;
+}
+
+#row #right2 #circle2 {
+  border-radius: 100%;
+  border-style: 2px solid black;
+  height: 22px;
+  width: 22px;
+  display: inline-block;
+}
+
+#row #right2 #circle3 {
+  border-radius: 100%;
+  border-style: 2px solid black;
+  height: 22px;
+  width: 22px;
+  display: inline-block;
+}
+
+#row #right2 #circle4 {
+  border-radius: 100%;
+  border-style: 2px solid black;
+  height: 22px;
+  width: 22px;
+  display: inline-block;
+}
+
+#row #right2 #rightarrow {
+  position: fixed;
+}
+
+#row #right2 #rightarrow2 {
+  float: bottom;
+}
+
+#row #right2 #center {
+
+}
+
+#row #right2 #center #app {
+  display: pull-right;
+}
+
+#row #right2 #center2 {
+
+}
+
+#row #right #center3 {
+
+}
+
+#row #right2 #center4 {
+
+}
+
+#row #right2 #rightarrow {
+
+}
+
+#row #right3 {
+
+}
+
+#row #right4 {
+
+}
+
+#row #right5 {
+
+}
